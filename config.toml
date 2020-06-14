@@ -2,8 +2,8 @@ baseurl = "/"
 languageCode = "fr-fr"
 title = "un peu d'R"
 theme = "hugo-lithium"
-googleAnalytics = ""
-disqusShortname = ""
+googleAnalytics = "UA-169346462-1"
+disqusShortname = "petzi"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]
