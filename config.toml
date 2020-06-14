@@ -1,5 +1,5 @@
 baseurl = "/"
-languageCode = "en-us"
+languageCode = "fr-fr"
 title = "A Hugo website"
 theme = "hugo-lithium"
 googleAnalytics = ""
@@ -14,10 +14,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/about/"
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    url = "https://github.com/lewishounkpevi"
 [[menu.main]]
     name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    url = "https://twitter.com/Afafa_h"
+[[menu.main]]
+    name = "Linkedin"
+    url = "https://www.linkedin.com/in/lewishounkpevi/"
 
 [params]
     description = "A website built through Hugo and blogdown."
